@@ -4,3 +4,6 @@
 [submodule "poster"]
 	path = poster
 	url = https://github.com/hanson-hschang/LaTeX-Poster.git
+[submodule "slide"]
+	path = slide
+	url = https://github.com/hanson-hschang/LaTeX-Beamer-Theme.git
